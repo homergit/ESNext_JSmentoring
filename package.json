@@ -1,0 +1,18 @@
+{
+  "name": "esnext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open"
+  },
+  "author": "Bohdan Popovych",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.30.0",
+    "webpack-dev-server": "^3.3.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.2"
+  }
+}
